@@ -7,8 +7,8 @@
 
 ## Useful Read
 
-[Nest](https://github.com/nestjs/nest) framework
-[Deploy NestJS API to AWS Lambda with Serverless](https://dev.to/aws-builders/deploy-a-nestjs-api-to-aws-lambda-with-serverless-framework-4poo)
+- [Nest](https://github.com/nestjs/nest) framework
+- [Deploy NestJS API to AWS Lambda with Serverless](https://dev.to/aws-builders/deploy-a-nestjs-api-to-aws-lambda-with-serverless-framework-4poo)
 
 ## Description
 
@@ -16,9 +16,9 @@ Currently deployed in:
 https://4y0od557fj.execute-api.us-east-1.amazonaws.com/dev/
 
 Routes:
-https://4y0od557fj.execute-api.us-east-1.amazonaws.com/dev/example
-https://4y0od557fj.execute-api.us-east-1.amazonaws.com/dev/example/first-example
-https://4y0od557fj.execute-api.us-east-1.amazonaws.com/dev/example2
+- https://4y0od557fj.execute-api.us-east-1.amazonaws.com/dev/example
+- https://4y0od557fj.execute-api.us-east-1.amazonaws.com/dev/example/first-example
+- https://4y0od557fj.execute-api.us-east-1.amazonaws.com/dev/example2
 
 ## Installation
 
